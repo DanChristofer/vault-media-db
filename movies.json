@@ -9,8 +9,9 @@
     "actors": "Duane Jones, Judith O'Dea",
     "fact": "Defined modern zombie genre.",
     "posterUrl": "https://archive.org/services/img/night-of-the-living-dead-1968_202312",
-    "videoUrl": "https://ia600408.us.archive.org/20/items/NightOfTheLivingDead1968-Restored/Notld1968Restoration-desktop.mp4",
-    "streamType": "mp4"
+    "sources": [
+      "https://ia600408.us.archive.org/20/items/NightOfTheLivingDead1968-Restored/Notld1968Restoration-desktop.mp4"
+    ]
   },
   {
     "id": "2",
@@ -22,8 +23,9 @@
     "actors": "Max Schreck",
     "fact": "Unofficial Dracula adaptation.",
     "posterUrl": "https://archive.org/services/img/nosferatu_192105",
-    "videoUrl": "https://dn711307.ca.archive.org/0/items/nosferatu-1922_202504/Nosferatu%20%281922%29.mp4",
-    "streamType": "mp4"
+    "sources": [
+      "https://dn711307.ca.archive.org/0/items/nosferatu-1922_202504/Nosferatu%20%281922%29.mp4"
+    ]
   },
   {
     "id": "3",
@@ -35,8 +37,9 @@
     "actors": "Conrad Veidt",
     "fact": "Icon of German Expressionism.",
     "posterUrl": "https://archive.org/services/img/the_cabinet_of_dr_caligari",
-    "videoUrl": "https://dn711000.ca.archive.org/0/items/TheCabinetOfDr.Caligari1920SilentMovieHorror/The%20Cabinet%20of%20Dr.%20Caligari%20%281920%29%20%5BSilent%20Movie%5D%20%5BHorror%5D.mp4",
-    "streamType": "mp4"
+    "sources": [
+      "https://dn711000.ca.archive.org/0/items/TheCabinetOfDr.Caligari1920SilentMovieHorror/The%20Cabinet%20of%20Dr.%20Caligari%20%281920%29%20%5BSilent%20Movie%5D%20%5BHorror%5D.mp4"
+    ]
   },
   {
     "id": "4",
@@ -48,8 +51,9 @@
     "actors": "Bela Lugosi",
     "fact": "First zombie feature film in history.",
     "posterUrl": "https://archive.org/services/img/white_zombie_1932",
-    "videoUrl": "https://ia801700.us.archive.org/11/items/white.zombie.1932/White%20Zombie%20%281932%29/mp4/white.zombie.1932.mp4",
-    "streamType": "mp4"
+    "sources": [
+      "https://ia801700.us.archive.org/11/items/white.zombie.1932/White%20Zombie%20%281932%29/mp4/white.zombie.1932.mp4"
+    ]
   },
   {
     "id": "5",
@@ -61,7 +65,8 @@
     "actors": "Lon Chaney",
     "fact": "Famous for legendary makeup transformation.",
     "posterUrl": "https://archive.org/services/img/phantom_of_the_opera_1925",
-    "videoUrl": "https://dn600306.us.archive.org/0/items/the-phantom-of-the-opera-1925_202505/The%20Phantom%20of%20the%20Opera%20%281925%29.mp4",
-    "streamType": "mp4"
+    "sources": [
+      "https://dn600306.us.archive.org/0/items/the-phantom-of-the-opera-1925_202505/The%20Phantom%20of%20the%20Opera%20%281925%29.mp4"
+    ]
   }
 ]
