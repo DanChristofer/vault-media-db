@@ -9,7 +9,7 @@
     "actors": "Duane Jones, Judith O'Dea",
     "fact": "Defined modern zombie genre.",
     "posterUrl": "https://archive.org/services/img/night-of-the-living-dead-1968_202312",
-    "videoUrl": "https://archive.org/download/night-of-the-living-dead-1968_202312/night-of-the-living-dead-1968.mp4"
+    "videoUrl": "https://ia801507.us.archive.org/35/items/night-of-the-living-dead-1968_202312/night-of-the-living-dead-1968_202312.mp4"
   },
   {
     "id": "2",
@@ -21,7 +21,7 @@
     "actors": "Max Schreck",
     "fact": "Unofficial Dracula adaptation.",
     "posterUrl": "https://archive.org/services/img/nosferatu_192105",
-    "videoUrl": "https://archive.org/download/nosferatu/nosferatu.mp4"
+    "videoUrl": "https://ia801409.us.archive.org/3/items/nosferatu_192105/nosferatu_192105.mp4"
   },
   {
     "id": "3",
@@ -33,7 +33,7 @@
     "actors": "Conrad Veidt",
     "fact": "Icon of German Expressionism.",
     "posterUrl": "https://archive.org/services/img/the_cabinet_of_dr_caligari",
-    "videoUrl": "https://archive.org/download/TheCabinetOfDrCaligari/TheCabinetOfDrCaligari.mp4"
+    "videoUrl": "https://ia801406.us.archive.org/20/items/TheCabinetOfDrCaligari/TheCabinetOfDrCaligari.mp4"
   },
   {
     "id": "4",
@@ -45,7 +45,7 @@
     "actors": "Bela Lugosi",
     "fact": "First zombie feature film in history.",
     "posterUrl": "https://archive.org/services/img/white_zombie_1932",
-    "videoUrl": "https://archive.org/download/WhiteZombie1932/WhiteZombie1932.mp4"
+    "videoUrl": "https://ia801507.us.archive.org/1/items/WhiteZombie1932/WhiteZombie1932.mp4"
   },
   {
     "id": "5",
@@ -57,6 +57,6 @@
     "actors": "Lon Chaney",
     "fact": "Famous for legendary makeup transformation.",
     "posterUrl": "https://archive.org/services/img/phantom_of_the_opera_1925",
-    "videoUrl": "https://archive.org/download/The_Phantom_of_the_Opera_1925/The_Phantom_of_the_Opera_1925.mp4"
+    "videoUrl": "https://ia801504.us.archive.org/10/items/The_Phantom_of_the_Opera_1925/The_Phantom_of_the_Opera_1925.mp4"
   }
 ]
