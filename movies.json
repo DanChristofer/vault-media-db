@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "description": "A group of people trapped in a farmhouse must survive a zombie outbreak.",
+    "genre": "Horror",
+    "posterUrl": "https://archive.org/services/img/night-of-the-living-dead-1968_202312",
+    "videoUrl": "https://archive.org/download/night-of-the-living-dead-1968_202312/night-of-the-living-dead-1968.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Nosferatu",
+    "year": 1922,
+    "description": "A vampire terrorizes a small town in this silent horror masterpiece.",
+    "genre": "Horror",
+    "posterUrl": "https://archive.org/services/img/nosferatu_202105",
+    "videoUrl": "https://archive.org/download/nosferatu_1922/nosferatu_1922.mp4"
+  },
+  {
+    "id": "3",
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "description": "A twisted tale of hypnosis, murder, and madness.",
+    "genre": "Horror",
+    "posterUrl": "https://archive.org/services/img/the_cabinet_of_dr_caligari",
+    "videoUrl": "https://archive.org/download/TheCabinetOfDrCaligari/TheCabinetOfDrCaligari.mp4"
+  },
+  {
+    "id": "4",
+    "title": "White Zombie",
+    "year": 1932,
+    "description": "The first feature-length zombie film featuring Bela Lugosi.",
+    "genre": "Horror",
+    "posterUrl": "https://archive.org/services/img/white_zombie_1932",
+    "videoUrl": "https://archive.org/download/WhiteZombie1932/WhiteZombie1932.mp4"
+  },
+  {
+    "id": "5",
+    "title": "The Phantom of the Opera",
+    "year": 1925,
+    "description": "A disfigured composer haunts the Paris Opera House.",
+    "genre": "Horror",
+    "posterUrl": "https://archive.org/services/img/phantom_of_the_opera_1925",
+    "videoUrl": "https://archive.org/download/The_Phantom_of_the_Opera_1925/The_Phantom_of_the_Opera_1925.mp4"
+  }
+]
